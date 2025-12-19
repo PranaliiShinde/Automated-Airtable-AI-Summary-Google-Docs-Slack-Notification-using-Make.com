@@ -71,3 +71,32 @@ AI-powered no-code automation using Make.com to fetch Airtable data, generate co
 
 ## 📂 Repository Structure
 
+---
+
+## 🧠 Key Learnings
+
+✔ No-code automation design  
+✔ AI integration into workflows  
+✔ SaaS tool orchestration  
+✔ Business process optimization  
+
+---
+
+## 👩‍💻 About the Author
+
+**Pranali Shinde**  
+📊 Data Analyst | 🤖 Automation Enthusiast  
+🇮🇳 India  
+
+---
+
+## 🔮 Future Enhancements
+
+✨ Error handling & logging  
+✨ Scheduled automation runs  
+✨ Writing document links back to Airtable  
+✨ Analytics & monitoring  
+
+---
+
+⭐ **If you like this project, don’t forget to star the repo!**
