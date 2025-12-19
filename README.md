@@ -28,6 +28,8 @@ AI-powered no-code automation using Make.com to fetch Airtable data, generate co
 | 💬 **Slack** | Team notifications |
 
 ---
+<img width="1680" height="679" alt="Screenshot 2025-12-19 141557" src="https://github.com/user-attachments/assets/a30b64df-dc87-42d6-9ec9-bc7328e66207" />
+
 
 ## 🔁 Workflow Explanation
 
